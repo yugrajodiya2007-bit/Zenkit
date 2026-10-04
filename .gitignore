@@ -1,0 +1,9 @@
+# Zenkit E-Commerce .gitignore
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak

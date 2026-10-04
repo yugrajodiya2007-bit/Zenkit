@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <rect width="100" height="100" rx="20" fill="#2874F0" />
+  <text x="50" y="66" 
+        font-family="'Plus Jakarta Sans', -apple-system, sans-serif" 
+        font-size="52" 
+        font-weight="900" 
+        font-style="italic" 
+        text-anchor="middle" 
+        fill="#FFFFFF">Z</text>
+  <polygon points="76,22 78.5,27 84,28 80,32 81,37.5 76,34.5 71,37.5 72,32 68,28 73.5,27" 
+           fill="#FFE500" />
+</svg>
